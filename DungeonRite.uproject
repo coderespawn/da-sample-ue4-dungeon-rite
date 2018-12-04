@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "DungeonRite",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Niagara",
